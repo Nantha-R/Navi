@@ -1,0 +1,7 @@
+% git
+
+# Undo last commit made in local branch without losing changes
+git reset HEAD~1 --soft
+
+# Git push local branch changes to a remote branch
+git push origin local_branch_name:remote_branch_name
