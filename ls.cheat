@@ -1,0 +1,7 @@
+% ls
+
+# Display file size in terms of human readable format
+ls -lh
+
+# List files in a reverse order based on the last changed time.
+ls -lrt
